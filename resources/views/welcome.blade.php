@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel master
+                    Laravel New design
                 </div>
 
                 <div class="links">
