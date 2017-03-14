@@ -18,3 +18,6 @@ Route::get('/about', function () {
     return view('about');
 });
 Route::resource('reports','ReportsController');
+Route::get('/test', function () {
+    return view('about');
+});
