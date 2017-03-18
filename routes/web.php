@@ -21,3 +21,6 @@ Route::resource('reports','ReportsController');
 Route::get('/test', function () {
     return view('about');
 });
+Route::get('/github', function () {
+    return view('github');
+});
